@@ -1,8 +1,6 @@
-<!---
 <p align="center">
   <img src="https://github.com/ri7nz/zsh-rust/blob/main/zsh-rust.gif?raw=true" alt="ri7nz/zsh-rust" /> 
 </p>
--->
 
 # ZSH Plugin - Rust Toolchain
 ZSH Plugin to install and load **DevTools for Rust ⚡**
